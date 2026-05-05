@@ -1,0 +1,19 @@
+{
+  "name": "mini-agent",
+  "version": "1.0.0",
+  "description": "A mini coding agent CLI implementing the Agent Skills open standard",
+  "type": "module",
+  "bin": {
+    "mini-agent": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
