@@ -42,7 +42,7 @@ Skills that don't match the current task are never loaded — keeping context ef
 ## Example prompts to test
 
 ```
-# Triggers welcome-me (must print "> Welcome to our Command Code assignment agent!")
+# Triggers welcome-me (must print "> Welcome to the mini-agent!")
 Don't know much about the project, where should i start?
 
 # Triggers changelog
