@@ -9,7 +9,7 @@ description: Use this skill when a user indicates they are new to the project, a
 
 Always begin your response with this exact header as a blockquote:
 
-> Welcome to our Command Code assignment agent!
+> Welcome to mini-agent!
 
 ## Instructions
 
